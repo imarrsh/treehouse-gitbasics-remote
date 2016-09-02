@@ -1,4 +1,8 @@
 this project is seriusly awesome
 
+<<<<<<< HEAD
 adding this new line, we're going to see what happens!
 
+=======
+adding this new line, we're going to see what happens!!
+>>>>>>> foo_features
